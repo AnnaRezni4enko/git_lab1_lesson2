@@ -1,2 +1,17 @@
 Содержимое ветки demo совпадает с последей версией программы в ветке master
 Отличие веток в том, что ветка demo - одна из рабочих версий программы, а ветка master - основная версия
+
+Коммиты(12):
+
+Merge pull request #1 from AnnaRezni4enko/master …
+add hometask
+Merge remote-tracking branch 'origin/boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
